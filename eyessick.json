@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nama_penyakit": "katarak",
+    "deskripsi_singkat": "Pengeruhan pada lensa mata yang menyebabkan penglihatan kabur dan buram.",
+    "gejala_pasien": [
+      "penglihatan kabur atau berkabut secara bertahap",
+      "kesulitan melihat di malam hari",
+      "penglihatan ganda di satu mata",
+      "sensitif terhadap cahaya (silau)",
+      "warna terlihat pudar atau kekuningan"
+    ],
+    "ciri_visual": [
+      "lensa mata terlihat buram, putih, atau kekuningan saat diperiksa",
+      "pupil (bagian hitam di tengah) dapat tampak keruh atau keabu-abuan"
+    ]
+  },
+  {
+    "id": 2,
+    "nama_penyakit": "konjungtivitis",
+    "deskripsi_singkat": "Peradangan pada selaput bening yang melapisi mata dan bagian dalam kelopak mata.",
+    "gejala_pasien": [
+      "mata terasa gatal, perih, dan panas",
+      "mata terasa berpasir atau seperti ada yang mengganjal",
+      "sering keluar cairan mata (belekan) yang bisa kering saat tidur",
+      "sensitif terhadap cahaya"
+    ],
+    "ciri_visual": [
+      "bagian putih mata (sklera) terlihat sangat merah atau merah muda",
+      "kelopak mata bengkak dan merah",
+      "cairan mata (belekan) bisa berwarna bening, putih, atau kuning kehijauan"
+    ]
+  },
+  {
+    "id": 3,
+    "nama_penyakit": "glaukoma",
+    "deskripsi_singkat": "Kondisi yang merusak saraf optik akibat tekanan mata yang tinggi, menyebabkan kehilangan penglihatan perifer.",
+    "gejala_pasien": [
+      "sakit kepala atau nyeri hebat di mata",
+      "mual dan muntah",
+      "melihat lingkaran cahaya (halo) di sekitar lampu",
+      "kehilangan penglihatan di tepi (seperti melihat dari terowongan)"
+    ],
+    "ciri_visual": [
+      "mata terlihat merah dan bengkak",
+      "pupil terlihat membesar dan tidak bereaksi terhadap cahaya",
+      "kornea tampak keruh atau berkabut"
+    ]
+  },
+  {
+    "id": 4,
+    "nama_penyakit": "bintitan (hordeolum)",
+    "deskripsi_singkat": "Infeksi pada kelenjar minyak di kelopak mata yang menyebabkan benjolan kecil dan menyakitkan.",
+    "gejala_pasien": [
+      "benjolan terasa sakit dan nyeri saat disentuh",
+      "mata terasa gatal dan teriritasi",
+      "kelopak mata bengkak"
+    ],
+    "ciri_visual": [
+      "adanya benjolan merah dan bengkak di tepi kelopak mata, mirip jerawat atau bisul",
+      "benjolan dapat berisi nanah di bagian tengahnya"
+    ]
+  },
+  {
+    "id": 5,
+    "nama_penyakit": "mata_kering",
+    "deskripsi_singkat": "Kondisi ketika mata tidak menghasilkan air mata yang cukup atau kualitas air mata tidak baik.",
+    "gejala_pasien": [
+      "mata terasa kering, perih, atau terbakar",
+      "mata terasa seperti ada yang mengganjal atau berpasir",
+      "penglihatan kabur yang hilang timbul"
+    ],
+    "ciri_visual": [
+      "mata terlihat merah dan teriritasi",
+      "permukaan mata terlihat kurang berkilau atau kering",
+      "kadang mata menjadi sangat berair sebagai reaksi"
+    ]
+  },
+  {
+    "id": 6,
+    "nama_penyakit": "pterigium (selaput mata)",
+    "deskripsi_singkat": "Pertumbuhan non-kanker pada selaput putih mata yang dapat melebar dan menutupi kornea.",
+    "gejala_pasien": [
+      "rasa gatal dan terbakar",
+      "mata terasa kering dan seperti ada benda asing",
+      "penglihatan kabur jika menutupi kornea"
+    ],
+    "ciri_visual": [
+      "adanya selaput berbentuk segitiga berwarna merah muda atau putih",
+      "selaput tumbuh dari bagian putih mata (biasanya di sisi hidung) menuju kornea",
+      "selaput terlihat menonjol dan tebal"
+    ]
+  },
+  {
+    "id": 7,
+    "nama_penyakit": "ulkus_kornea (luka)",
+    "deskripsi_singkat": "Luka terbuka pada kornea yang disebabkan oleh infeksi bakteri, virus, atau jamur.",
+    "gejala_pasien": [
+      "nyeri mata yang parah",
+      "sensitivitas ekstrem terhadap cahaya",
+      "mata berair dan mengeluarkan nanah",
+      "penglihatan kabur yang mendadak"
+    ],
+    "ciri_visual": [
+      "adanya bercak putih, abu-abu, atau keruh di permukaan kornea",
+      "mata sangat merah",
+      "pupil terlihat kabur karena luka pada kornea"
+    ]
+  }
+]
