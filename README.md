@@ -357,7 +357,9 @@ Format dataset baru harus:
 Jika ada pertanyaan atau saran:
 - Create GitHub Issue untuk bug report atau feature request
 - Gunakan Discussion tab untuk pertanyaan umum
-- Email: [your-email@domain.com] untuk pertanyaan khusus
+- Email: apipedia22@gmail.com untuk pertanyaan khusus
+- GitHub Repository: https://github.com/Cloud-Dark/exampledataset
+- Disediakan oleh apipedia.id
 
 ---
 
