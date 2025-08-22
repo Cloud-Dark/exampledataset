@@ -1,0 +1,139 @@
+[
+  {
+    "patient_id": "P001",
+    "nama": "Sari Dewi",
+    "umur": 34,
+    "jenis_kelamin": "F",
+    "alamat": "Jl. Merdeka No. 15, Jakarta",
+    "diagnosa": "Diabetes Melitus Tipe 2",
+    "gejala": ["sering haus", "sering buang air kecil", "mudah lelah", "luka sulit sembuh"],
+    "riwayat_penyakit": ["hipertensi", "obesitas"],
+    "obat_yang_diminum": [
+      {
+        "nama_obat": "Metformin",
+        "dosis": "500mg",
+        "frekuensi": "2x sehari"
+      },
+      {
+        "nama_obat": "Glibenclamide",
+        "dosis": "5mg",
+        "frekuensi": "1x sehari"
+      }
+    ],
+    "kadar_gula_darah": {
+      "puasa": 145,
+      "sewaktu": 210,
+      "hba1c": 8.2
+    },
+    "tanggal_kunjungan": "2024-01-15",
+    "status": "kontrol rutin"
+  },
+  {
+    "patient_id": "P002",
+    "nama": "Budi Santoso",
+    "umur": 45,
+    "jenis_kelamin": "M",
+    "alamat": "Jl. Sudirman No. 88, Bandung",
+    "diagnosa": "Hipertensi Stadium 2",
+    "gejala": ["sakit kepala", "pusing", "nyeri dada", "penglihatan buram"],
+    "riwayat_penyakit": ["kolesterol tinggi", "riwayat keluarga hipertensi"],
+    "obat_yang_diminum": [
+      {
+        "nama_obat": "Amlodipine",
+        "dosis": "10mg",
+        "frekuensi": "1x sehari"
+      },
+      {
+        "nama_obat": "Lisinopril",
+        "dosis": "10mg",
+        "frekuensi": "1x sehari"
+      }
+    ],
+    "tekanan_darah": {
+      "sistolik": 160,
+      "diastolik": 100
+    },
+    "tanggal_kunjungan": "2024-01-16",
+    "status": "kontrol rutin"
+  },
+  {
+    "patient_id": "P003",
+    "nama": "Rina Kusuma",
+    "umur": 28,
+    "jenis_kelamin": "F",
+    "alamat": "Jl. Gatot Subroto No. 45, Surabaya",
+    "diagnosa": "Anemia Defisiensi Besi",
+    "gejala": ["mudah lelah", "pucat", "sesak napas", "palpitasi"],
+    "riwayat_penyakit": ["menstruasi tidak teratur", "vegetarian"],
+    "obat_yang_diminum": [
+      {
+        "nama_obat": "Ferrous Sulfate",
+        "dosis": "325mg",
+        "frekuensi": "3x sehari"
+      },
+      {
+        "nama_obat": "Vitamin C",
+        "dosis": "500mg",
+        "frekuensi": "1x sehari"
+      }
+    ],
+    "hasil_lab": {
+      "hemoglobin": 8.5,
+      "hematokrit": 25.2,
+      "ferritin": 12,
+      "tibc": 450
+    },
+    "tanggal_kunjungan": "2024-01-17",
+    "status": "follow up"
+  },
+  {
+    "patient_id": "P004",
+    "nama": "Ahmad Wijaya",
+    "umur": 52,
+    "jenis_kelamin": "M",
+    "alamat": "Jl. Diponegoro No. 23, Yogyakarta",
+    "diagnosa": "Gastritis Kronis",
+    "gejala": ["nyeri ulu hati", "mual", "kembung", "nafsu makan menurun"],
+    "riwayat_penyakit": ["maag akut", "stress kerja"],
+    "obat_yang_diminum": [
+      {
+        "nama_obat": "Omeprazole",
+        "dosis": "20mg",
+        "frekuensi": "2x sehari"
+      },
+      {
+        "nama_obat": "Sucralfate",
+        "dosis": "1g",
+        "frekuensi": "3x sehari"
+      }
+    ],
+    "pemeriksaan_penunjang": "Endoskopi menunjukkan erosi mukosa lambung",
+    "tanggal_kunjungan": "2024-01-18",
+    "status": "kontrol rutin"
+  },
+  {
+    "patient_id": "P005",
+    "nama": "Linda Sari",
+    "umur": 67,
+    "jenis_kelamin": "F",
+    "alamat": "Jl. Ahmad Yani No. 12, Medan",
+    "diagnosa": "Osteoarthritis Lutut",
+    "gejala": ["nyeri lutut", "kaku sendi pagi hari", "sulit berjalan", "bengkak ringan"],
+    "riwayat_penyakit": ["menopause", "obesitas", "aktivitas fisik kurang"],
+    "obat_yang_diminum": [
+      {
+        "nama_obat": "Ibuprofen",
+        "dosis": "400mg",
+        "frekuensi": "3x sehari setelah makan"
+      },
+      {
+        "nama_obat": "Glucosamine",
+        "dosis": "1500mg",
+        "frekuensi": "1x sehari"
+      }
+    ],
+    "pemeriksaan_penunjang": "X-Ray lutut menunjukkan penyempitan celah sendi",
+    "tanggal_kunjungan": "2024-01-19",
+    "status": "kontrol rutin"
+  }
+]

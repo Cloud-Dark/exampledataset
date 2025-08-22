@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "nama_penyakit": "stroke_iskemik",
+    "kategori": "neurologis",
+    "deskripsi_singkat": "Gangguan aliran darah ke otak akibat penyumbatan pembuluh darah yang menyebabkan kerusakan jaringan otak.",
+    "ciri_fisik_wajah": [
+      "wajah asimetris dengan satu sisi tampak turun atau kendur",
+      "sudut mulut pada satu sisi tampak menurun",
+      "kelopak mata pada satu sisi tampak turun (ptosis)",
+      "kerutan pada dahi hilang pada satu sisi",
+      "senyum tampak miring atau tidak simetris"
+    ],
+    "ciri_fisik_tubuh": [
+      "kelemahan atau kelumpuhan pada satu sisi tubuh (hemiparesis/hemiplegia)",
+      "lengan pada sisi yang terkena tampak menggantung lemah",
+      "kaki pada sisi yang terkena diseret saat berjalan",
+      "postur tubuh condong ke satu sisi",
+      "refleks pada sisi yang terkena menurun atau hilang"
+    ],
+    "pemeriksaan_fisik": [
+      "tes FAST - Face (wajah asimetris), Arms (kelemahan lengan), Speech (bicara pelo), Time (waktu onset)",
+      "pemeriksaan refleks Babinski positif pada sisi yang terkena",
+      "tes koordinasi motorik terganggu pada sisi yang sakit",
+      "pemeriksaan sensibilitas menurun pada sisi yang terkena"
+    ],
+    "gejala_neurologis": [
+      "bicara pelo atau tidak dapat berbicara (afasia)",
+      "sulit memahami pembicaraan orang lain",
+      "kebingungan mendadak",
+      "gangguan koordinasi dan keseimbangan",
+      "sakit kepala hebat yang tiba-tiba"
+    ]
+  },
+  {
+    "id": 2,
+    "nama_penyakit": "parkinson",
+    "kategori": "neurodegeneratif",
+    "deskripsi_singkat": "Gangguan sistem saraf yang mempengaruhi gerakan akibat kekurangan dopamin di otak.",
+    "ciri_fisik_wajah": [
+      "ekspresi wajah datar dan kurang beranimasi (masked face)",
+      "frekuensi berkedip menurun drastis",
+      "air liur sering menetes dari mulut",
+      "kesulitan mengunyah dan menelan",
+      "suara menjadi pelan dan monoton"
+    ],
+    "ciri_fisik_tubuh": [
+      "tremor pada tangan saat istirahat (pill-rolling tremor)",
+      "kekakuan otot (rigiditas) terutama pada leher dan tungkai",
+      "gerakan lambat (bradikinesia) dalam aktivitas sehari-hari",
+      "postur tubuh bungkuk ke depan",
+      "langkah kaki kecil-kecil dan tergesa-gesa (festinating gait)"
+    ],
+    "pemeriksaan_fisik": [
+      "tes cogwheel rigidity - kekakuan seperti roda bergigi saat menggerakkan sendi",
+      "tes pull test - mudah kehilangan keseimbangan saat ditarik dari belakang",
+      "observasi tremor 4-6 Hz saat istirahat",
+      "tes finger tapping - gerakan jari lambat dan amplitudo menurun",
+      "tes heel-to-shin - koordinasi kaki terganggu"
+    ],
+    "gejala_neurologis": [
+      "tremor terutama saat istirahat",
+      "kesulitan memulai gerakan",
+      "gangguan keseimbangan dan sering jatuh",
+      "tulisan tangan menjadi kecil (mikrografi)",
+      "gangguan tidur dan depresi"
+    ]
+  },
+  {
+    "id": 3,
+    "nama_penyakit": "alzheimer",
+    "kategori": "demensia",
+    "deskripsi_singkat": "Penyakit neurodegeneratif yang menyebabkan penurunan fungsi kognitif dan daya ingat secara progresif.",
+    "ciri_fisik_wajah": [
+      "ekspresi wajah bingung dan kosong",
+      "kesulitan mengenali wajah orang yang dikenal",
+      "gerakan mulut tanpa suara (muttering)",
+      "tatapan mata kosong dan tidak fokus",
+      "kesulitan mengontrol ekspresi emosi"
+    ],
+    "ciri_fisik_tubuh": [
+      "gaya berjalan lambat dan tidak stabil",
+      "kesulitan koordinasi gerakan halus",
+      "penurunan kebersihan diri secara bertahap",
+      "perubahan pola tidur dengan gelisah di malam hari",
+      "penurunan berat badan akibat lupa makan"
+    ],
+    "pemeriksaan_fisik": [
+      "tes MMSE (Mini Mental State Examination) skor rendah",
+      "tes clock drawing - tidak dapat menggambar jam dengan benar",
+      "tes memori jangka pendek - lupa dalam 5 menit",
+      "tes orientasi waktu, tempat, dan orang terganggu",
+      "pemeriksaan neurologi menunjukkan atrofi otak pada CT scan"
+    ],
+    "gejala_neurologis": [
+      "kehilangan memori jangka pendek yang progresif",
+      "disorientasi waktu dan tempat",
+      "kesulitan berbahasa dan menemukan kata",
+      "penurunan kemampuan berpikir abstrak",
+      "perubahan kepribadian dan perilaku"
+    ]
+  },
+  {
+    "id": 4,
+    "nama_penyakit": "epilepsi",
+    "kategori": "kejang",
+    "deskripsi_singkat": "Gangguan neurologis kronis yang ditandai dengan kejang berulang akibat aktivitas listrik abnormal di otak.",
+    "ciri_fisik_wajah": [
+      "selama kejang: mata memutar ke atas atau berkedip cepat",
+      "mulut berbusa atau mengeluarkan air liur berlebih",
+      "rahang mengencang dan gigi bergemertak",
+      "wajah pucat atau kebiruan (sianosis) selama kejang",
+      "setelah kejang: wajah tampak lelah dan bingung"
+    ],
+    "ciri_fisik_tubuh": [
+      "kejang tonik-klonik: kekakuan diikuti gerakan menyentak",
+      "kehilangan kontrol otot secara tiba-tiba",
+      "jatuh mendadak tanpa peringatan",
+      "inkontinensia urin atau feses selama kejang",
+      "bekas gigitan pada lidah atau pipi bagian dalam"
+    ],
+    "pemeriksaan_fisik": [
+      "EEG menunjukkan gelombang otak abnormal",
+      "pemeriksaan refleks normal di luar serangan",
+      "observasi tanda-tanda cedera akibat jatuh",
+      "pemeriksaan neurologis lengkap untuk mencari fokus kejang",
+      "tes darah untuk memeriksa kadar obat anti-epilepsi"
+    ],
+    "gejala_neurologis": [
+      "aura sebelum kejang (bau atau rasa aneh, déjà vu)",
+      "kehilangan kesadaran mendadak",
+      "amnesia setelah kejang (tidak ingat kejadian)",
+      "kantuk dan kebingungan pasca kejang",
+      "sakit kepala hebat setelah kejang"
+    ]
+  },
+  {
+    "id": 5,
+    "nama_penyakit": "migrain",
+    "kategori": "nyeri_kepala",
+    "deskripsi_singkat": "Nyeri kepala kronis yang berdenyut, biasanya pada satu sisi, disertai gejala neurologis.",
+    "ciri_fisik_wajah": [
+      "ekspresi wajah meringis kesakitan",
+      "mata tampak cekung dan lelah",
+      "kulit pucat terutama di area wajah",
+      "keringat dingin di dahi",
+      "sensitif terhadap cahaya (photophobia) - mata dipicingkan"
+    ],
+    "ciri_fisik_tubuh": [
+      "posisi tubuh membungkuk atau meringkuk",
+      "memegang kepala dengan kedua tangan",
+      "otot leher dan bahu tegang",
+      "tremor ringan pada tangan",
+      "gejala mual terlihat dari ekspresi dan postur"
+    ],
+    "pemeriksaan_fisik": [
+      "pemeriksaan tekanan darah sering meningkat saat serangan",
+      "palpasi otot leher dan kepala terasa tegang",
+      "tes sensitivitas cahaya dan suara",
+      "pemeriksaan neurologis normal di luar serangan",
+      "tes trigger point di area temporal dan oksipital"
+    ],
+    "gejala_neurologis": [
+      "aura visual: melihat kilatan cahaya atau garis zigzag",
+      "mati rasa atau kesemutan pada wajah dan tangan",
+      "kesulitan berbicara sementara",
+      "pusing dan kehilangan keseimbangan",
+      "sensitif terhadap bau, cahaya, dan suara"
+    ]
+  },
+  {
+    "id": 6,
+    "nama_penyakit": "meningitis",
+    "kategori": "infeksi",
+    "deskripsi_singkat": "Peradangan selaput otak (meninges) yang dapat disebabkan oleh bakteri, virus, atau fungi.",
+    "ciri_fisik_wajah": [
+      "ekspresi wajah kesakitan dan gelisah",
+      "kulit wajah pucat atau keabu-abuan",
+      "mata cekung dan tampak sakit",
+      "bibir kering dan pecah-pecah",
+      "ruam kemerahan yang tidak hilang saat ditekan (pada meningitis bakterial)"
+    ],
+    "ciri_fisik_tubuh": [
+      "posisi opistotonus - tubuh melengkung ke belakang",
+      "kekakuan kuduk - tidak dapat menekuk leher ke depan",
+      "ruam petechiae atau purpura di seluruh tubuh",
+      "demam tinggi dengan menggigil",
+      "fotofobia - menghindari cahaya terang"
+    ],
+    "pemeriksaan_fisik": [
+      "tes Brudzinski - fleksi leher menyebabkan fleksi involunter tungkai",
+      "tes Kernig - nyeri dan hambatan saat ekstensi tungkai",
+      "pemeriksaan kekakuan kuduk (neck stiffness)",
+      "pemeriksaan ruam yang tidak memucat saat ditekan",
+      "pungsi lumbal menunjukkan cairan serebrospinal keruh"
+    ],
+    "gejala_neurologis": [
+      "sakit kepala hebat dan konstan",
+      "demam tinggi mendadak",
+      "mual dan muntah proyektil",
+      "penurunan kesadaran atau kebingungan",
+      "kejang pada kasus berat"
+    ]
+  }
+]

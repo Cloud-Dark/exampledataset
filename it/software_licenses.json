@@ -1,0 +1,90 @@
+[
+  {
+    "license_id": "LIC001",
+    "software_name": "Microsoft Office 365",
+    "vendor": "Microsoft",
+    "license_type": "Subscription",
+    "total_licenses": 150,
+    "used_licenses": 147,
+    "available_licenses": 3,
+    "cost_per_license": 120000,
+    "total_annual_cost": 18000000,
+    "purchase_date": "2023-01-01",
+    "renewal_date": "2024-01-01",
+    "status": "Active",
+    "compliance_status": "Compliant",
+    "assigned_users": [
+      "john.doe@company.com",
+      "jane.smith@company.com",
+      "alice.johnson@company.com"
+    ]
+  },
+  {
+    "license_id": "LIC002",
+    "software_name": "Adobe Creative Cloud",
+    "vendor": "Adobe",
+    "license_type": "Subscription",
+    "total_licenses": 25,
+    "used_licenses": 23,
+    "available_licenses": 2,
+    "cost_per_license": 840000,
+    "total_annual_cost": 21000000,
+    "purchase_date": "2023-03-01",
+    "renewal_date": "2024-03-01",
+    "status": "Active",
+    "compliance_status": "Compliant",
+    "assigned_users": [
+      "design.team@company.com",
+      "marketing.team@company.com"
+    ]
+  },
+  {
+    "license_id": "LIC003",
+    "software_name": "IntelliJ IDEA Ultimate",
+    "vendor": "JetBrains",
+    "license_type": "Annual",
+    "total_licenses": 50,
+    "used_licenses": 48,
+    "available_licenses": 2,
+    "cost_per_license": 2400000,
+    "total_annual_cost": 120000000,
+    "purchase_date": "2023-05-01",
+    "renewal_date": "2024-05-01",
+    "status": "Active",
+    "compliance_status": "Compliant",
+    "assigned_users": [
+      "dev.team@company.com"
+    ]
+  },
+  {
+    "license_id": "LIC004",
+    "software_name": "Windows Server 2022",
+    "vendor": "Microsoft",
+    "license_type": "Perpetual",
+    "total_licenses": 10,
+    "used_licenses": 8,
+    "available_licenses": 2,
+    "cost_per_license": 15000000,
+    "total_cost": 150000000,
+    "purchase_date": "2023-04-15",
+    "support_expiry": "2028-04-15",
+    "status": "Active",
+    "compliance_status": "Compliant"
+  },
+  {
+    "license_id": "LIC005",
+    "software_name": "Antivirus Enterprise",
+    "vendor": "Symantec",
+    "license_type": "Subscription",
+    "total_licenses": 200,
+    "used_licenses": 195,
+    "available_licenses": 5,
+    "cost_per_license": 480000,
+    "total_annual_cost": 96000000,
+    "purchase_date": "2023-06-01",
+    "renewal_date": "2024-06-01",
+    "status": "Active",
+    "compliance_status": "At Risk",
+    "notes": "License usage close to limit, consider purchasing additional licenses"
+  }
+]

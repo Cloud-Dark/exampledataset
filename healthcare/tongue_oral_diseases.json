@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "nama_penyakit": "oral_thrush_kandidiasis",
+    "kategori": "infeksi_jamur",
+    "deskripsi_singkat": "Infeksi jamur Candida albicans pada mulut dan lidah yang menyebabkan bercak putih.",
+    "ciri_fisik_lidah": [
+      "bercak putih seperti keju cottage yang dapat dikerok",
+      "permukaan lidah merah dan berdarah setelah bercak dikerok",
+      "lidah tampak bengkak dan merah di bawah lapisan putih",
+      "papila lidah (tonjolan kecil) tidak terlihat karena tertutup jamur",
+      "lidah terasa kering dan kasar saat diraba"
+    ],
+    "ciri_fisik_mulut": [
+      "bercak putih pada gusi, pipi bagian dalam, dan langit-langit",
+      "sudut mulut pecah-pecah dan berkerak (angular cheilitis)",
+      "gusi tampak merah dan mudah berdarah",
+      "mukosa mulut kering dan lengket",
+      "bau mulut yang khas (amis atau asam)"
+    ],
+    "pemeriksaan_fisik": [
+      "tes KOH - bercak putih menunjukkan hifa dan spora jamur",
+      "kultur jamur dari swab mulut",
+      "bercak mudah dikerok dengan spatula kayu",
+      "pH mulut cenderung asam (< 6.5)",
+      "pemeriksaan seluruh rongga mulut dengan senter"
+    ],
+    "gejala_klinis": [
+      "mulut terasa perih dan terbakar",
+      "kesulitan menelan (disfagia)",
+      "rasa logam atau pahit di mulut",
+      "nafsu makan menurun akibat nyeri",
+      "demam ringan pada kasus berat"
+    ]
+  },
+  {
+    "id": 2,
+    "nama_penyakit": "geographic_tongue",
+    "kategori": "kondisi_inflamasi",
+    "deskripsi_singkat": "Kondisi jinak pada lidah dengan bercak merah yang dikelilingi garis putih menyerupai peta.",
+    "ciri_fisik_lidah": [
+      "bercak merah irregular dengan pinggiran putih kekuningan",
+      "area yang terkena terlihat seperti 'pulau' pada peta",
+      "permukaan bercak merah halus tanpa papila (tonjolan lidah)",
+      "pola bercak berubah-ubah posisi dari hari ke hari",
+      "ukuran bercak bervariasi dari beberapa milimeter hingga sentimeter"
+    ],
+    "ciri_fisik_mulut": [
+      "umumnya hanya terjadi pada lidah, mulut normal",
+      "tidak ada perubahan pada gusi atau mukosa mulut",
+      "produksi air liur normal",
+      "warna bibir dan gusi normal",
+      "tidak ada pembengkakan kelenjar ludah"
+    ],
+    "pemeriksaan_fisik": [
+      "observasi pola geographic yang khas pada lidah",
+      "palpasi lidah - tidak ada indurasi atau massa",
+      "tes sensitivitas - area merah lebih sensitif terhadap makanan pedas",
+      "fotografi lidah untuk monitoring perubahan pola",
+      "pemeriksaan histopatologi jika diperlukan"
+    ],
+    "gejala_klinis": [
+      "sensasi terbakar atau perih pada lidah",
+      "sensitif terhadap makanan pedas, asam, atau panas",
+      "rasa tidak nyaman saat makan",
+      "kadang tidak ada gejala (asimptomatik)",
+      "kecemasan akibat tampilan lidah yang tidak normal"
+    ]
+  },
+  {
+    "id": 3,
+    "nama_penyakit": "black_hairy_tongue",
+    "kategori": "hiperkeratosis",
+    "deskripsi_singkat": "Kondisi jinak dimana papila lidah memanjang dan berubah warna menjadi hitam atau coklat gelap.",
+    "ciri_fisik_lidah": [
+      "permukaan lidah berwarna hitam, coklat, atau hijau gelap",
+      "papila filiformis memanjang seperti rambut (2-15mm)",
+      "tekstur lidah kasar dan berbulu",
+      "perubahan warna dimulai dari tengah lidah ke belakang",
+      "bagian ujung dan pinggir lidah biasanya normal"
+    ],
+    "ciri_fisik_mulut": [
+      "bau mulut yang tidak sedap (halitosis)",
+      "rasa logam atau asam di mulut",
+      "produksi air liur normal atau sedikit meningkat",
+      "gigi mungkin tampak bernoda akibat pigmen",
+      "mukosa mulut lainnya normal"
+    ],
+    "pemeriksaan_fisik": [
+      "observasi papila yang memanjang dan berpigmen",
+      "tes dengan sikat lidah - papila sulit dibersihkan",
+      "pemeriksaan mikroskopis menunjukkan hiperkeratosis",
+      "kultur bakteri dan jamur dari permukaan lidah",
+      "riwayat penggunaan obat dan kebiasaan merokok"
+    ],
+    "gejala_klinis": [
+      "rasa tidak nyaman atau geli pada lidah",
+      "sensasi benda asing di mulut",
+      "mual atau muntah pada kasus berat",
+      "perubahan persepsi rasa",
+      "rasa malu akibat penampilan lidah"
+    ]
+  },
+  {
+    "id": 4,
+    "nama_penyakit": "oral_leukoplakia",
+    "kategori": "lesi_prakanker",
+    "deskripsi_singkat": "Bercak putih pada mukosa mulut yang tidak dapat dikerok dan berpotensi menjadi kanker.",
+    "ciri_fisik_lidah": [
+      "plak putih tebal yang tidak dapat dikerok",
+      "permukaan kasar atau bergelombang",
+      "batas tegas antara area normal dan abnormal",
+      "warna putih keabu-abuan yang konsisten",
+      "area yang terkena biasanya pada pinggir lidah"
+    ],
+    "ciri_fisik_mulut": [
+      "lesi putih pada pipi bagian dalam, gusi, atau bibir",
+      "tekstur lesi bervariasi dari halus hingga kasar",
+      "tidak ada peradangan di sekitar lesi",
+      "mukosa di sekitar lesi tampak normal",
+      "lesi tidak hilang dengan pembersihan"
+    ],
+    "pemeriksaan_fisik": [
+      "biopsi jaringan untuk pemeriksaan histopatologi",
+      "tes toluidine blue - area abnormal menyerap warna biru",
+      "palpasi untuk mendeteksi indurasi atau pengerasan",
+      "fotografi untuk dokumentasi dan monitoring",
+      "pemeriksaan seluruh rongga mulut untuk lesi multiple"
+    ],
+    "gejala_klinis": [
+      "umumnya tidak ada gejala (asimptomatik)",
+      "kadang terasa kasar saat lidah menyentuh",
+      "nyeri ringan jika terjadi ulserasi",
+      "perubahan rasa pada area yang terkena",
+      "kekhawatiran tentang kemungkinan keganasan"
+    ]
+  },
+  {
+    "id": 5,
+    "nama_penyakit": "aphthous_ulcer_sariawan",
+    "kategori": "ulkus_rekuren",
+    "deskripsi_singkat": "Ulkus yang menyakitkan pada mukosa mulut dengan dasar putih kekuningan dan tepi kemerahan.",
+    "ciri_fisik_lidah": [
+      "ulkus bulat atau oval dengan dasar putih kekuningan",
+      "tepi ulkus merah dan sedikit meninggi",
+      "ukuran bervariasi dari 2mm hingga 10mm",
+      "biasanya tunggal pada lidah, multiple pada mukosa lain",
+      "jaringan di sekitar ulkus tampak normal"
+    ],
+    "ciri_fisik_mulut": [
+      "ulkus pada pipi bagian dalam, bibir, atau gusi",
+      "halo kemerahan di sekitar ulkus",
+      "dasar ulkus bersih tanpa pus",
+      "kelenjar limfe leher mungkin membesar",
+      "mukosa mulut lainnya normal"
+    ],
+    "pemeriksaan_fisik": [
+      "inspeksi visual dengan pencahayaan yang baik",
+      "palpasi kelenjar limfe regional",
+      "tes sensitivitas dengan cotton bud",
+      "kultur untuk menyingkirkan infeksi sekunder",
+      "biopsi jika ulkus tidak sembuh > 2 minggu"
+    ],
+    "gejala_klinis": [
+      "nyeri hebat terutama saat makan dan minum",
+      "sensasi terbakar sebelum ulkus muncul",
+      "kesulitan makan makanan pedas atau asam",
+      "air liur meningkat sebagai respons nyeri",
+      "demam ringan pada kasus multiple"
+    ]
+  },
+  {
+    "id": 6,
+    "nama_penyakit": "oral_lichen_planus",
+    "kategori": "penyakit_autoimun",
+    "deskripsi_singkat": "Penyakit inflamasi kronis yang menimbulkan lesi putih retikular atau erosif pada mukosa mulut.",
+    "ciri_fisik_lidah": [
+      "garis-garis putih retikular (seperti jaring laba-laba)",
+      "area erosif merah dengan tepi tidak teratur",
+      "permukaan lidah atrofi dengan papila menghilang",
+      "lesi bilateral dan simetris",
+      "kombinasi area keratotik putih dan erosif merah"
+    ],
+    "ciri_fisik_mulut": [
+      "lesi retikular putih pada pipi bagian dalam",
+      "area erosif yang menyakitkan pada gusi",
+      "mukosa tampak rapuh dan mudah berdarah",
+      "perubahan pigmentasi pasca inflamasi",
+      "xerostomia (mulut kering) pada beberapa kasus"
+    ],
+    "pemeriksaan_fisik": [
+      "biopsi dengan pewarnaan khusus untuk diagnosis pasti",
+      "tes imunofluoresensi langsung",
+      "pemeriksaan dermatologis untuk lesi kulit",
+      "foto klinis untuk monitoring perkembangan",
+      "tes Wickham striae - garis putih khas"
+    ],
+    "gejala_klinis": [
+      "nyeri dan sensasi terbakar pada lesi erosif",
+      "intoleransi terhadap makanan pedas dan asam",
+      "perubahan persepsi rasa",
+      "kesulitan membuka mulut lebar pada kasus berat",
+      "kecemasan tentang kemungkinan transformasi ganas"
+    ]
+  },
+  {
+    "id": 7,
+    "nama_penyakit": "glossitis",
+    "kategori": "inflamasi",
+    "deskripsi_singkat": "Peradangan lidah yang menyebabkan pembengkakan, perubahan warna, dan tekstur permukaan lidah.",
+    "ciri_fisik_lidah": [
+      "lidah bengkak dan tampak lebih besar dari normal",
+      "warna merah cerah atau merah gelap",
+      "permukaan licin karena hilangnya papila",
+      "lidah terlihat mengkilap dan halus",
+      "jejak gigi pada pinggir lidah akibat pembengkakan"
+    ],
+    "ciri_fisik_mulut": [
+      "produksi air liur dapat meningkat atau menurun",
+      "kesulitan menggerakkan lidah dengan normal",
+      "mukosa mulut mungkin ikut meradang",
+      "bau mulut akibat akumulasi bakteri",
+      "gusi dapat tampak pucat pada kasus anemia"
+    ],
+    "pemeriksaan_fisik": [
+      "palpasi lidah untuk menilai konsistensi dan nyeri tekan",
+      "pemeriksaan darah lengkap untuk anemia",
+      "tes defisiensi vitamin B12, folat, dan zat besi",
+      "swab kultur jika dicurigai infeksi",
+      "pemeriksaan sistemik untuk penyakit yang mendasari"
+    ],
+    "gejala_klinis": [
+      "lidah terasa nyeri dan sensitif",
+      "kesulitan mengunyah dan menelan",
+      "gangguan pengecapan (dysgeusia)",
+      "sensasi terbakar pada lidah",
+      "kesulitan berbicara dengan jelas"
+    ]
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "nama_penyakit": "katarak_kongenital",
+    "kategori": "gangguan_lensa",
+    "deskripsi_singkat": "Kekeruhan lensa mata yang terjadi sejak lahir atau berkembang pada masa anak-anak.",
+    "ciri_fisik_mata": [
+      "pupil tampak putih atau keabu-abuan (leukokoria)",
+      "refleks merah mata hilang saat diperiksa dengan oftalmoskop",
+      "lensa terlihat keruh dengan berbagai pola (nuklear, kortikal, atau total)",
+      "mata yang terkena mungkin terlihat lebih kecil (mikroftalmi)",
+      "nistagmus (gerakan mata involunter) pada katarak bilateral"
+    ],
+    "ciri_fisik_wajah": [
+      "anak mengedipkan mata berlebihan atau menyipitkan mata",
+      "posisi kepala abnormal untuk melihat lebih jelas",
+      "ekspresi wajah menunjukkan kesulitan melihat",
+      "tidak ada kontak mata normal dengan orang lain",
+      "respons terhadap cahaya berkurang atau hilang"
+    ],
+    "pemeriksaan_fisik": [
+      "tes refleks merah dengan oftalmoskop - negatif atau berkurang",
+      "pemeriksaan dengan slit lamp menunjukkan kekeruhan lensa",
+      "tes visus sesuai usia - berkurang signifikan",
+      "pemeriksaan funduskopi sulit dilakukan akibat kekeruhan",
+      "tes pupil - respons cahaya dapat normal atau berkurang"
+    ],
+    "komplikasi_fisik": [
+      "ambliopia (mata malas) akibat deprivasi visual",
+      "strabismus (mata juling) sekunder",
+      "nistagmus yang persisten",
+      "glaukoma sekunder pada beberapa kasus",
+      "retardasi perkembangan visual-motorik"
+    ]
+  },
+  {
+    "id": 2,
+    "nama_penyakit": "glaukoma_akut",
+    "kategori": "peningkatan_tekanan_intraokular",
+    "deskripsi_singkat": "Peningkatan tekanan dalam mata secara mendadak yang dapat menyebabkan kebutaan permanen.",
+    "ciri_fisik_mata": [
+      "mata merah hebat dengan injeksi konjungtiva dan siliar",
+      "kornea keruh seperti ground glass akibat edema",
+      "pupil mid-dilatasi (4-6mm) dan tidak reaktif terhadap cahaya",
+      "bilik mata depan dangkal dengan sudut iridokorneal sempit",
+      "mata tampak lebih besar dan menonjol (eksoftalmos ringan)"
+    ],
+    "ciri_fisik_wajah": [
+      "ekspresi wajah kesakitan hebat",
+      "mata berair berlebihan (epifora)",
+      "kelopak mata bengkak akibat edema",
+      "fotofobia berat - mata dipicingkan",
+      "asimetri wajah akibat nyeri unilateral"
+    ],
+    "pemeriksaan_fisik": [
+      "tonometri menunjukkan tekanan intraokular >40 mmHg",
+      "gonioskopi menunjukkan sudut bilik mata tertutup",
+      "tes provokasi dengan posisi tengkurap positif",
+      "pemeriksaan funduskopi menunjukkan edema papil",
+      "tes visus sangat menurun hingga hanya persepsi cahaya"
+    ],
+    "gejala_sistemik": [
+      "mual dan muntah hebat",
+      "sakit kepala berat pada sisi yang sama",
+      "penglihatan kabur dengan halo di sekitar cahaya",
+      "nyeri mata yang menjalar ke pelipis dan rahang",
+      "pusing dan lemah akibat mual muntah"
+    ]
+  },
+  {
+    "id": 3,
+    "nama_penyakit": "retinal_detachment",
+    "kategori": "gangguan_retina",
+    "deskripsi_singkat": "Lepasnya retina dari lapisan di bawahnya yang dapat menyebabkan kebutaan permanen.",
+    "ciri_fisik_mata": [
+      "pupil dapat tampak sedikit tidak bulat sempurna",
+      "refleks fundus berkurang atau hilang di area yang terlepas",
+      "mata mungkin tampak normal dari luar pada stadium awal",
+      "pergerakan mata normal tetapi visus menurun drastis",
+      "tidak ada perubahan warna konjungtiva atau sklera"
+    ],
+    "ciri_fisik_wajah": [
+      "pasien sering menutup satu mata untuk melihat",
+      "gerakan kepala mencari sudut pandang terbaik",
+      "ekspresi cemas dan takut kehilangan penglihatan",
+      "tidak ada perubahan fisik wajah yang spesifik",
+      "mungkin terlihat disorientasi saat berjalan"
+    ],
+    "pemeriksaan_fisik": [
+      "oftalmoskopi menunjukkan retina terangkat seperti tirai",
+      "tes Amsler grid menunjukkan distorsi garis",
+      "perimetri menunjukkan defek lapangan pandang",
+      "USG mata jika media keruh",
+      "biomikroskopi dengan lensa kontak khusus"
+    ],
+    "gejala_visual": [
+      "kilatan cahaya (fotopsia) terutama di perifer",
+      "floaters (benda mengambang) yang tiba-tiba bertambah",
+      "kehilangan lapangan pandang seperti tirai turun",
+      "distorsi penglihatan (metamorfopsia)",
+      "penurunan ketajaman penglihatan sentral"
+    ]
+  },
+  {
+    "id": 4,
+    "nama_penyakit": "keratitis_infektif",
+    "kategori": "infeksi_kornea",
+    "deskripsi_singkat": "Infeksi pada kornea yang dapat disebabkan bakteri, virus, jamur, atau parasit.",
+    "ciri_fisik_mata": [
+      "infiltrat putih atau kekuningan pada kornea",
+      "ulkus kornea dengan tepi tidak teratur",
+      "hipopion (nanah di bilik mata depan)",
+      "injeksi konjungtiva dan siliar yang berat",
+      "kornea edema dengan kehilangan transparansi"
+    ],
+    "ciri_fisik_wajah": [
+      "mata berair berlebihan dengan sekret purulen",
+      "kelopak mata bengkak dan sulit dibuka",
+      "fotofobia berat dengan blepharospasm",
+      "ekspresi wajah kesakitan",
+      "asimetri mata akibat pembengkakan"
+    ],
+    "pemeriksaan_fisik": [
+      "pewarnaan fluorescein menunjukkan defek epitel",
+      "scraping kornea untuk kultur dan sensitivitas",
+      "biomikroskopi menunjukkan infiltrat dan reaksi inflamasi",
+      "tonometri untuk menyingkirkan peningkatan tekanan mata",
+      "pemeriksaan konfocal microscopy jika tersedia"
+    ],
+    "komplikasi_fisik": [
+      "perforasi kornea dengan prolaps iris",
+      "pembentukan sikatrik kornea",
+      "glaukoma sekunder",
+      "endoftalmitis (infeksi intraokular)",
+      "kehilangan penglihatan permanen"
+    ]
+  },
+  {
+    "id": 5,
+    "nama_penyakit": "diabetic_retinopathy",
+    "kategori": "retinopati_vaskuler",
+    "deskripsi_singkat": "Komplikasi diabetes pada pembuluh darah retina yang dapat menyebabkan kebutaan.",
+    "ciri_fisik_mata": [
+      "mata tampak normal dari luar pada stadium awal",
+      "mungkin ada sedikit injeksi konjungtiva",
+      "pupil dapat bereaksi normal terhadap cahaya",
+      "tidak ada perubahan pada kornea atau lensa",
+      "pergerakan mata normal"
+    ],
+    "ciri_fisik_wajah": [
+      "tidak ada perubahan fisik spesifik pada wajah",
+      "pasien mungkin menyipitkan mata untuk melihat",
+      "tidak ada fotofobia atau nyeri mata",
+      "ekspresi cemas jika menyadari penurunan penglihatan",
+      "postur normal tanpa kompensasi khusus"
+    ],
+    "pemeriksaan_fisik": [
+      "oftalmoskopi menunjukkan mikroaneurisma dan perdarahan",
+      "angiografi fluorescein untuk evaluasi perfusi",
+      "OCT (Optical Coherence Tomography) untuk edema makula",
+      "fotografi fundus untuk dokumentasi",
+      "perimetri untuk evaluasi lapangan pandang"
+    ],
+    "stadium_progresif": [
+      "non-proliferatif ringan: mikroaneurisma dan hard exudates",
+      "non-proliferatif sedang: perdarahan dan soft exudates",
+      "non-proliferatif berat: IRMA dan venous beading",
+      "proliferatif: neovaskularisasi dan fibrous proliferation",
+      "stadium lanjut: ablasi retina traksi dan glaukoma"
+    ]
+  },
+  {
+    "id": 6,
+    "nama_penyakit": "orbital_cellulitis",
+    "kategori": "infeksi_orbita",
+    "deskripsi_singkat": "Infeksi serius pada jaringan orbita di belakang septum orbital yang mengancam penglihatan.",
+    "ciri_fisik_mata": [
+      "proptosis (mata menonjol ke depan) yang jelas",
+      "keterbatasan gerakan mata ke segala arah",
+      "injeksi konjungtiva yang berat",
+      "kemosis (edema konjungtiva) yang masif",
+      "kelopak mata bengkak hingga tidak dapat dibuka"
+    ],
+    "ciri_fisik_wajah": [
+      "edema periorbital yang massif dan eritematous",
+      "kulit di sekitar mata panas, merah, dan tegang",
+      "asimetri wajah yang mencolok",
+      "mungkin ada discharge purulen dari mata",
+      "ekspresi wajah kesakitan dan tidak nyaman"
+    ],
+    "pemeriksaan_fisik": [
+      "CT scan orbita menunjukkan inflamasi jaringan orbital",
+      "kultur darah dan discharge untuk identifikasi kuman",
+      "pemeriksaan neurologi untuk tanda kompresi saraf optik",
+      "oftalmoskopi untuk evaluasi papil saraf optik",
+      "palpasi untuk menilai fluktuasi atau abses"
+    ],
+    "komplikasi_serius": [
+      "trombosis sinus kavernosus",
+      "meningitis atau abses otak",
+      "neuropati optik dengan kebutaan",
+      "sepsis sistemik",
+      "kematian akibat penyebaran infeksi intrakranial"
+    ]
+  },
+  {
+    "id": 7,
+    "nama_penyakit": "macular_degeneration",
+    "kategori": "degenerasi_makula",
+    "deskripsi_singkat": "Degenerasi makula terkait usia yang menyebabkan kehilangan penglihatan sentral.",
+    "ciri_fisik_mata": [
+      "mata tampak normal dari pemeriksaan eksternal",
+      "tidak ada perubahan pada konjungtiva atau sklera",
+      "pupil bereaksi normal terhadap cahaya",
+      "kornea dan lensa biasanya jernih",
+      "tidak ada tanda inflamasi eksternal"
+    ],
+    "ciri_fisik_wajah": [
+      "pasien sering memiringkan kepala saat membaca",
+      "menggunakan penglihatan perifer dengan melirik",
+      "ekspresi frustrasi saat melakukan aktivitas detail",
+      "mungkin menggunakan kaca pembesar",
+      "tidak ada photophobia atau nyeri"
+    ],
+    "pemeriksaan_fisik": [
+      "oftalmoskopi menunjukkan drusen dan perubahan pigmen",
+      "tes Amsler grid menunjukkan distorsi atau skotoma sentral",
+      "angiografi fluorescein untuk tipe wet AMD",
+      "OCT untuk evaluasi edema makula dan CNV",
+      "autofluorescence untuk penilaian atrofi geografis"
+    ],
+    "variasi_klinis": [
+      "dry AMD: drusen, atrofi geografis, kehilangan penglihatan lambat",
+      "wet AMD: neovaskularisasi koroidal, perdarahan subretinal",
+      "diskiform scar: stadium akhir dengan sikatrik sentral",
+      "atrofi geografis: area atrofi RPE dan fotoreseptor",
+      "drusen: deposit kekuningan di bawah retina"
+    ]
+  }
+]

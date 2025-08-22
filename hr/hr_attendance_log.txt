@@ -1,0 +1,125 @@
+ATTENDANCE LOG - JANUARY 2024
+PT MAJU BERSAMA TEKNOLOGI
+
+Date Range: January 1-31, 2024
+Generated: February 1, 2024
+Report Type: Monthly Summary
+
+========================================
+
+EMPLOYEE: Budi Santoso (EMP001)
+Department: Engineering
+Regular Hours: 160 hours/month
+Overtime Hours: 12 hours
+Total Hours Worked: 172 hours
+Days Present: 22 days
+Days Absent: 0 days
+Late Arrivals: 2 times (Jan 8: 15 mins, Jan 23: 8 mins)
+Early Departures: 1 time (Jan 19: 30 mins - medical appointment)
+Leave Taken: Annual Leave - 1 day (Jan 15)
+Notes: Consistently good attendance. Late arrivals were due to traffic conditions.
+
+========================================
+
+EMPLOYEE: Sari Dewi (EMP002)  
+Department: Marketing
+Regular Hours: 160 hours/month
+Overtime Hours: 8 hours
+Total Hours Worked: 168 hours
+Days Present: 21 days
+Days Absent: 1 day (Jan 12 - sick leave with medical certificate)
+Late Arrivals: 0 times
+Early Departures: 0 times
+Leave Taken: Sick Leave - 1 day
+Notes: Excellent punctuality record. Submitted required medical documentation for sick leave.
+
+========================================
+
+EMPLOYEE: David Lee (EMP003)
+Department: Human Resources  
+Regular Hours: 160 hours/month
+Overtime Hours: 15 hours
+Total Hours Worked: 175 hours
+Days Present: 22 days
+Days Absent: 0 days
+Late Arrivals: 1 time (Jan 3: 10 mins)
+Early Departures: 0 times
+Leave Taken: None
+Notes: High overtime hours due to recruitment drive. Single late arrival on first working day after holiday.
+
+========================================
+
+EMPLOYEE: Rina Kusuma (EMP004)
+Department: Finance
+Regular Hours: 160 hours/month  
+Overtime Hours: 20 hours
+Total Hours Worked: 180 hours
+Days Present: 22 days
+Days Absent: 0 days
+Late Arrivals: 0 times
+Early Departures: 2 times (Jan 26: 1 hour, Jan 31: 2 hours - month-end reporting deadline stress)
+Leave Taken: None
+Notes: Perfect punctuality but high overtime indicating workload management issue. Early departures approved by manager.
+
+========================================
+
+EMPLOYEE: Carol Brown (EMP005)
+Department: Customer Support
+Regular Hours: 160 hours/month
+Overtime Hours: 6 hours  
+Total Hours Worked: 166 hours
+Days Present: 20 days
+Days Absent: 2 days (Jan 10-11: family emergency, documentation provided)
+Late Arrivals: 3 times (Jan 5: 12 mins, Jan 17: 25 mins, Jan 29: 5 mins)
+Early Departures: 1 time (Jan 9: 45 mins - child's school event)
+Leave Taken: Emergency Leave - 2 days
+Notes: Late arrivals mostly due to childcare responsibilities. Manager aware of family situation.
+
+========================================
+
+DEPARTMENT SUMMARY:
+
+Engineering Department:
+- Average Attendance Rate: 98.5%
+- Total Overtime Hours: 12 hours
+- Punctuality Issues: Minimal
+
+Marketing Department:  
+- Average Attendance Rate: 95.5%
+- Total Overtime Hours: 8 hours
+- Punctuality Issues: None
+
+Human Resources Department:
+- Average Attendance Rate: 100%
+- Total Overtime Hours: 15 hours
+- Punctuality Issues: Minimal
+
+Finance Department:
+- Average Attendance Rate: 100%  
+- Total Overtime Hours: 20 hours (CONCERN: Investigate workload)
+- Punctuality Issues: None
+
+Customer Support Department:
+- Average Attendance Rate: 91%
+- Total Overtime Hours: 6 hours
+- Punctuality Issues: Moderate (childcare related)
+
+========================================
+
+OVERALL COMPANY STATISTICS:
+Total Employees Tracked: 5
+Average Attendance Rate: 97%
+Total Overtime Hours: 61 hours
+Average Overtime per Employee: 12.2 hours
+Sick Leave Days Used: 1 day
+Emergency Leave Days Used: 2 days
+Annual Leave Days Used: 1 day
+
+RECOMMENDED ACTIONS:
+1. Finance Department - Review workload distribution and consider additional staffing
+2. Customer Support - Implement flexible working hours for employees with childcare needs
+3. General - Overtime hours within acceptable range but monitor Finance department closely
+
+HR Manager: Linda Sari
+Date: February 1, 2024
+Approved by: CEO - Michael Tan

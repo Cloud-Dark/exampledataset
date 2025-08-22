@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "nama_penyakit": "psoriasis_vulgaris",
+    "kategori": "penyakit_autoimun",
+    "deskripsi_singkat": "Penyakit kulit kronis autoimun yang ditandai dengan plak merah bersisik keperakan.",
+    "ciri_fisik_kulit": [
+      "plak eritematous (merah) yang jelas batasnya",
+      "sisik keperakan berlapis tebal yang mudah dikerok",
+      "fenomena Auspitz - pinpoint bleeding saat sisik dikerok",
+      "distribusi simetris bilateral pada area ekstensor",
+      "ukuran lesi bervariasi dari beberapa mm hingga > 10 cm"
+    ],
+    "lokasi_predileksi": [
+      "siku dan lutut (area ekstensor)",
+      "kulit kepala dengan rambut yang tidak rontok",
+      "punggung bawah (area sakral)",
+      "area genital dan perianal",
+      "kuku dengan pitting dan onycholysis"
+    ],
+    "pemeriksaan_fisik": [
+      "tes Auspitz - bleeding points saat sisik dihilangkan",
+      "tes Koebner - lesi baru pada area trauma kulit",
+      "pemeriksaan nail plate untuk perubahan kuku",
+      "palpasi untuk menilai ketebalan plak",
+      "dermatoskopi menunjukkan pola vaskular khas"
+    ],
+    "variasi_klinis": [
+      "psoriasis gutata - lesi kecil seperti tetesan air",
+      "psoriasis inverse - pada area fleksor tanpa sisik",
+      "psoriasis pustular - pustul steril pada plak eritem",
+      "erythrodermic psoriasis - >90% permukaan kulit terkena",
+      "psoriatic arthritis - keterlibatan sendi"
+    ]
+  },
+  {
+    "id": 2,
+    "nama_penyakit": "atopic_dermatitis_eksim",
+    "kategori": "dermatitis_atopik",
+    "deskripsi_singkat": "Peradangan kulit kronis yang gatal dengan predisposisi genetik dan lingkungan.",
+    "ciri_fisik_kulit": [
+      "eritema difus dengan batas tidak jelas",
+      "kulit kering, kasar, dan bersisik halus",
+      "likenifikasi (penebalan kulit) akibat garukan kronis",
+      "ekskoriasi (bekas garukan) yang multiple",
+      "hiperpigmentasi atau hipopigmentasi pasca inflamasi"
+    ],
+    "lokasi_predileksi": [
+      "fleksura antecubital dan popliteal",
+      "wajah terutama pipi pada anak",
+      "leher dengan pola rope sign",
+      "pergelangan tangan dan kaki",
+      "area perioral dan periorbital"
+    ],
+    "pemeriksaan_fisik": [
+      "tes IgE total dan spesifik untuk alergen",
+      "prick test untuk identifikasi alergen",
+      "pemeriksaan mikroskopis untuk menyingkirkan infeksi",
+      "kultur bakteri jika ada infeksi sekunder",
+      "patch test untuk dermatitis kontak"
+    ],
+    "komplikasi_kulit": [
+      "infeksi sekunder bakteri (impetiginisasi)",
+      "infeksi herpes simplex (eczema herpeticum)",
+      "infeksi jamur superfisial",
+      "katarak dan keratokonus (jarang)",
+      "gangguan pertumbuhan pada anak berat"
+    ]
+  },
+  {
+    "id": 3,
+    "nama_penyakit": "melanoma_maligna",
+    "kategori": "keganasan_kulit",
+    "deskripsi_singkat": "Kanker kulit ganas yang berasal dari melanosit dengan potensi metastasis tinggi.",
+    "ciri_fisik_kulit": [
+      "lesi pigmented dengan variasi warna (coklat, hitam, merah, putih)",
+      "batas tidak teratur dan asimetris",
+      "permukaan dapat ulserasi atau berdarah",
+      "diameter biasanya > 6mm dan terus membesar",
+      "konsistensi dapat keras atau lunak"
+    ],
+    "kriteria_ABCDE": [
+      "Asymmetry - bentuk tidak simetris bila dibagi dua",
+      "Border - tepi tidak teratur, bergerigi, atau kabur",
+      "Color - variasi warna dalam satu lesi",
+      "Diameter - > 6mm atau sebesar penghapus pensil",
+      "Evolution - perubahan ukuran, bentuk, warna, atau gejala"
+    ],
+    "pemeriksaan_fisik": [
+      "dermatoskopi dengan pola struktur dan warna khas",
+      "palpasi kelenjar limfe regional",
+      "biopsi eksisi untuk konfirmasi histopatologi",
+      "pemeriksaan seluruh kulit untuk lesi multipel",
+      "fotografi untuk dokumentasi dan monitoring"
+    ],
+    "tipe_histologis": [
+      "superficial spreading melanoma - paling umum",
+      "nodular melanoma - pertumbuhan vertikal cepat",
+      "lentigo maligna melanoma - pada kulit rusak sinar UV",
+      "acral lentiginous melanoma - pada telapak tangan/kaki",
+      "amelanotic melanoma - tidak berpigmen"
+    ]
+  },
+  {
+    "id": 4,
+    "nama_penyakit": "impetigo",
+    "kategori": "infeksi_bakteri",
+    "deskripsi_singkat": "Infeksi kulit superfisial yang sangat menular disebabkan Staphylococcus atau Streptococcus.",
+    "ciri_fisik_kulit": [
+      "vesikel atau pustul yang cepat pecah",
+      "krusta kekuningan seperti madu yang khas",
+      "eritema di sekitar lesi dengan batas jelas",
+      "lesi multiple yang dapat menyebar cepat",
+      "tidak ada keterlibatan jaringan dalam"
+    ],
+    "lokasi_predileksi": [
+      "wajah terutama area perioral dan perinasal",
+      "ekstremitas dengan trauma minor",
+      "area intertriginosa yang lembab",
+      "kulit kepala pada anak",
+      "area dengan higiene yang buruk"
+    ],
+    "pemeriksaan_fisik": [
+      "kultur pus untuk identifikasi bakteri dan resistensi",
+      "pewarnaan Gram menunjukkan kokus gram positif",
+      "tes sensitivitas antibiotik",
+      "pemeriksaan kontak serumah untuk penyebaran",
+      "swab hidung untuk deteksi carrier"
+    ],
+    "komplikasi_potensial": [
+      "selulitis jika infeksi menyebar ke jaringan dalam",
+      "limfadenitis regional",
+      "glomerulonefritis post-streptokokal (jarang)",
+      "bakteremia pada pasien immunocompromised",
+      "sikatrik minimal setelah penyembuhan"
+    ]
+  },
+  {
+    "id": 5,
+    "nama_penyakit": "vitiligo",
+    "kategori": "gangguan_pigmentasi",
+    "deskripsi_singkat": "Kehilangan pigmen kulit akibat destruksi melanosit yang menyebabkan bercak putih.",
+    "ciri_fisik_kulit": [
+      "makula atau patch depigmented (putih) dengan batas tegas",
+      "kulit normal di sekitar lesi dengan kontras jelas",
+      "rambut di area vitiligo dapat memutih (poliosis)",
+      "tidak ada perubahan tekstur atau ketebalan kulit",
+      "fenomena Koebner - lesi baru pada area trauma"
+    ],
+    "lokasi_predileksi": [
+      "area periorificial (sekitar mata, mulut, hidung)",
+      "ujung jari tangan dan kaki",
+      "area fleksura (ketiak, lipat paha)",
+      "genitalia dan area perianal",
+      "area dengan trauma berulang"
+    ],
+    "pemeriksaan_fisik": [
+      "pemeriksaan dengan lampu Wood - fluoresensi putih cerah",
+      "dermatoskopi untuk evaluasi repigmentasi",
+      "tes fungsi tiroid untuk menyingkirkan autoimun",
+      "pemeriksaan oftalmologi untuk uveitis",
+      "biopsy kulit jika diagnosis meragukan"
+    ],
+    "pola_klinis": [
+      "vitiligo generalisata - distribusi simetris bilateral",
+      "vitiligo segmental - distribusi dermatom unilateral",
+      "vitiligo fokal - lesi terbatas area kecil",
+      "vitiligo universal - >80% permukaan kulit",
+      "vitiligo mukosal - mukosa oral dan genital"
+    ]
+  },
+  {
+    "id": 6,
+    "nama_penyakit": "herpes_zoster_cacar_ular",
+    "kategori": "infeksi_viral",
+    "deskripsi_singkat": "Reaktivasi virus varicella-zoster yang menyebabkan ruam vesikular pada distribusi dermatom.",
+    "ciri_fisik_kulit": [
+      "vesikul berkelompok pada base eritem",
+      "distribusi unilateral mengikuti dermatom spinal",
+      "vesikul berisi cairan jernih yang kemudian keruh",
+      "krusta setelah vesikul pecah (5-7 hari)",
+      "hiperpigmentasi atau hipopigmentasi pasca penyembuhan"
+    ],
+    "lokasi_predileksi": [
+      "dermatom torakal (T3-L3) paling umum",
+      "dermatom trigeminal dengan risiko mata",
+      "dermatom servikal dan lumbal",
+      "tidak melewati garis tengah tubuh",
+      "area dengan riwayat trauma atau stress"
+    ],
+    "pemeriksaan_fisik": [
+      "tes Tzanck smear - sel raksasa multinukleat",
+      "PCR cairan vesikul untuk konfirmasi virus",
+      "tes antibodi VZV IgM dan IgG",
+      "pemeriksaan oftalmologi jika melibatkan V1",
+      "kultur virus jika fasilitas tersedia"
+    ],
+    "komplikasi_potensial": [
+      "neuralgia post-herpetik - nyeri kronis >3 bulan",
+      "infeksi sekunder bakteri pada lesi",
+      "herpes zoster oftalmikus dengan kebutaan",
+      "paralisis motorik pada 1-5% kasus",
+      "disseminasi pada pasien immunocompromised"
+    ]
+  },
+  {
+    "id": 7,
+    "nama_penyakit": "cellulitis",
+    "kategori": "infeksi_jaringan_lunak",
+    "deskripsi_singkat": "Infeksi bakteri pada jaringan subkutan dan dermis dalam yang dapat mengancam jiwa.",
+    "ciri_fisik_kulit": [
+      "eritema yang meluas dengan batas tidak tegas",
+      "edema dan indurasi jaringan yang jelas",
+      "kulit teraba panas dan nyeri tekan",
+      "mungkin ada fluktuasi jika terbentuk abses",
+      "skin dimpling atau peau d'orange appearance"
+    ],
+    "tanda_sistemik": [
+      "demam dan menggigil",
+      "limfangitis - streak kemerahan ke arah kelenjar limfe",
+      "limfadenopati regional yang nyeri",
+      "malaise dan lemah badan",
+      "takikardia dan hipotensi pada kasus berat"
+    ],
+    "pemeriksaan_fisik": [
+      "kultur darah jika ada demam atau toksisitas sistemik",
+      "aspirasi jarum halus jika ada fluktuasi",
+      "pencitraan (USG/CT) jika curiga abses dalam",
+      "pemeriksaan laboratorium: leukositosis, CRP meningkat",
+      "evaluasi faktor predisposisi (diabetes, edema)"
+    ],
+    "komplikasi_serius": [
+      "necrotizing fasciitis - emergensi bedah",
+      "sepsis dan syok septik",
+      "tromboflebitis superfisial atau dalam",
+      "osteomielitis jika mengenai tulang",
+      "gangren pada pasien dengan komorbid berat"
+    ]
+  }
+]

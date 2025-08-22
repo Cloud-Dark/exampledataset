@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "nama_penyakit": "pneumonia_komunitas",
+    "kategori": "infeksi_respiratori",
+    "deskripsi_singkat": "Infeksi akut pada parenkim paru yang didapat di komunitas dengan gejala respiratori dan sistemik.",
+    "ciri_fisik_umum": [
+      "tampak sakit sedang hingga berat",
+      "posisi orthopnea - lebih nyaman duduk",
+      "sianosis perifer pada kuku dan bibir",
+      "penggunaan otot bantu napas",
+      "flapping tremor jika ada gagal napas"
+    ],
+    "pemeriksaan_toraks": [
+      "perkusi redup pada area konsolidasi",
+      "fremitus vokal meningkat di area terinfeksi",
+      "ronki basah halus hingga kasar",
+      "suara napas bronkial pada konsolidasi",
+      "pleural friction rub jika ada pleuritis"
+    ],
+    "tanda_vital": [
+      "demam >38°C atau hipotermia <36°C",
+      "takipnea >20x/menit atau dispnea",
+      "takikardia >100x/menit",
+      "hipotensi pada pneumonia berat",
+      "saturasi O2 <95% udara ruang"
+    ],
+    "pemeriksaan_penunjang": [
+      "foto toraks menunjukkan infiltrat",
+      "darah lengkap: leukositosis dengan shift to left",
+      "kultur sputum dan sensitivitas antibiotik",
+      "analisa gas darah jika gagal napas",
+      "procalcitonin untuk membedakan bakterial/viral"
+    ]
+  },
+  {
+    "id": 2,
+    "nama_penyakit": "gagal_jantung_kongestif",
+    "kategori": "kardiovaskular",
+    "deskripsi_singkat": "Ketidakmampuan jantung memompa darah adequat untuk memenuhi kebutuhan metabolik tubuh.",
+    "ciri_fisik_umum": [
+      "edema tungkai bilateral mulai dari kaki",
+      "distensi vena jugularis >5cmH2O",
+      "asites dan hepatomegali pada gagal jantung kanan",
+      "sianosis sentral pada bibir dan lidah",
+      "clubbing finger pada penyakit jantung kronik"
+    ],
+    "pemeriksaan_jantung": [
+      "gallop S3 (suara jantung tambahan)",
+      "murmur regurgitasi mitral atau trikuspid",
+      "iktus kordis bergeser lateral dan melebar",
+      "takikardia dengan irama irregular",
+      "pulsus alternans pada gagal jantung berat"
+    ],
+    "pemeriksaan_paru": [
+      "ronki basah halus bilateral di basal paru",
+      "perkusi redup jika ada efusi pleura",
+      "dispnea orthopnea dan paroxysmal nocturnal dyspnea",
+      "batuk nonproduktif terutama malam hari",
+      "wheeze cardiac asthma"
+    ],
+    "klasifikasi_NYHA": [
+      "kelas I - tidak ada keterbatasan aktivitas",
+      "kelas II - keterbatasan ringan aktivitas sehari-hari",
+      "kelas III - keterbatasan nyata aktivitas fisik",
+      "kelas IV - gejala saat istirahat"
+    ]
+  },
+  {
+    "id": 3,
+    "nama_penyakit": "sirosis_hepatis",
+    "kategori": "hepatologi",
+    "deskripsi_singkat": "Penyakit hati kronik dengan fibrosis dan gangguan arsitektur hati yang ireversibel.",
+    "ciri_fisik_umum": [
+      "ikterus - sklera dan kulit kekuningan",
+      "spider nevi - lesi vaskular seperti laba-laba",
+      "palmar erythema - telapak tangan kemerahan",
+      "muscle wasting dan malnutrisi protein",
+      "ginekomastia pada pria akibat gangguan hormon"
+    ],
+    "pemeriksaan_abdomen": [
+      "hepatomegali pada stadium awal, kemudian mengecil",
+      "splenomegali akibat hipertensi portal",
+      "asites dengan shifting dullness positif",
+      "caput medusae - dilatasi vena abdomen",
+      "massa abdomen jika ada hepatoma"
+    ],
+    "komplikasi_fisik": [
+      "varises esofagus - risiko perdarahan masif",
+      "ensefalopati hepatik - asterixis dan perubahan mental",
+      "sindrom hepatorenal - oliguria dan azotemia",
+      "koagulopati - ptechiae dan ekimosis",
+      "hipoalbuminemia - edema dan asites"
+    ],
+    "scoring_child_pugh": [
+      "bilirubin total, albumin, INR",
+      "asites dan ensefalopati hepatik",
+      "kelas A (5-6 poin) - kompensata",
+      "kelas B (7-9 poin) - dekompensata ringan",
+      "kelas C (10-15 poin) - dekompensata berat"
+    ]
+  },
+  {
+    "id": 4,
+    "nama_penyakit": "hipertiroidisme_graves",
+    "kategori": "endokrin",
+    "deskripsi_singkat": "Hipersekresi hormon tiroid yang menyebabkan hipermetabolisme dan gejala kardiovaskular.",
+    "ciri_fisik_umum": [
+      "penurunan berat badan meski nafsu makan baik",
+      "tremor halus pada jari tangan",
+      "kulit hangat, lembab, dan berkeringat",
+      "rambut halus dan mudah rontok",
+      "muscle weakness terutama otot proksimal"
+    ],
+    "pemeriksaan_mata": [
+      "exophthalmos - mata menonjol keluar",
+      "lid lag - kelopak atas tidak mengikuti bola mata",
+      "lid retraction - kelopak mata tertarik ke atas",
+      "konjungtivitis dan lakrimasi berlebihan",
+      "diplopia akibat keterlibatan otot ekstraokular"
+    ],
+    "pemeriksaan_tiroid": [
+      "goiter difus dengan bruit dan thrill",
+      "kelenjar tiroid membesar 2-3 kali normal",
+      "konsistensi kenyal dan mobile",
+      "tidak ada nodul atau asimetri",
+      "lymphadenopathy regional minimal"
+    ],
+    "gejala_kardiovaskular": [
+      "takikardia sinus >100x/menit",
+      "palpitasi dan atrial fibrilasi",
+      "hipertensi sistolik dengan tekanan nadi lebar",
+      "gagal jantung high output pada usia lanjut",
+      "angina pectoris pada penyakit jantung koroner"
+    ]
+  },
+  {
+    "id": 5,
+    "nama_penyakit": "diabetes_melitus_tipe_1",
+    "kategori": "endokrin",
+    "deskripsi_singkat": "Diabetes akibat destruksi sel beta pankreas dengan defisiensi insulin absolut.",
+    "ciri_fisik_umum": [
+      "penurunan berat badan drastis dalam waktu singkat",
+      "dehidrasi dengan turgor kulit menurun",
+      "napas berbau keton (fruity breath)",
+      "lemah dan mudah lelah",
+      "muscle wasting pada kontrol glikemik buruk"
+    ],
+    "pemeriksaan_sistemik": [
+      "poliuria - produksi urin berlebihan",
+      "polidipsia - rasa haus berlebihan",
+      "polifagia - nafsu makan meningkat",
+      "gangguan penglihatan akibat perubahan refraksi",
+      "infeksi berulang terutama candidiasis"
+    ],
+    "komplikasi_akut": [
+      "ketoasidosis diabetik - napas Kussmaul",
+      "hipoglikemia - keringat dingin, tremor",
+      "dehidrasi berat dengan syok",
+      "gangguan elektrolit dan asam basa",
+      "koma diabetikum pada kasus berat"
+    ],
+    "komplikasi_kronik": [
+      "retinopati diabetik - gangguan penglihatan",
+      "nefropati diabetik - proteinuria dan hipertensi",
+      "neuropati diabetik - mati rasa kaki",
+      "ulkus diabetikum - luka tidak sembuh",
+      "aterosklerosis prematur"
+    ]
+  },
+  {
+    "id": 6,
+    "nama_penyakit": "lupus_eritematosus_sistemik",
+    "kategori": "autoimun",
+    "deskripsi_singkat": "Penyakit autoimun sistemik yang dapat mengenai berbagai organ dengan manifestasi kulit khas.",
+    "ciri_fisik_kulit": [
+      "butterfly rash - eritema malar dengan pola kupu-kupu",
+      "discoid rash - lesi diskoid dengan sikatrik atrofi",
+      "fotosensitivitas - ruam setelah paparan matahari",
+      "ulkus oral dan nasal yang tidak nyeri",
+      "alopesia difus atau lokalisata"
+    ],
+    "manifestasi_sistemik": [
+      "artritis sendi kecil tanpa deformitas",
+      "serositis - pleuritis dan perikarditis",
+      "proteinuria dan hematuria (lupus nefritis)",
+      "limfadenopati generalisata",
+      "splenomegali dan hepatomegali ringan"
+    ],
+    "gejala_neurologis": [
+      "kejang dan psikosis",
+      "gangguan kognitif dan mood",
+      "neuropati perifer",
+      "mielitis transversa",
+      "stroke pada sindrom antifosfolipid"
+    ],
+    "kriteria_diagnosis": [
+      "kriteria ACR - 4 dari 11 kriteria",
+      "ANA positif dengan pola homogen/rim",
+      "anti-dsDNA dan anti-Sm spesifik",
+      "komplemen C3 dan C4 rendah",
+      "tes Coombs positif dengan anemia hemolitik"
+    ]
+  },
+  {
+    "id": 7,
+    "nama_penyakit": "gagal_ginjal_kronik",
+    "kategori": "nefrologi",
+    "deskripsi_singkat": "Penurunan fungsi ginjal progresif dengan GFR <60 ml/menit/1.73m² >3 bulan.",
+    "ciri_fisik_umum": [
+      "pucat akibat anemia ginjal",
+      "edema pretibial dan periorbital",
+      "kulit kering dengan uremic frost (stadium lanjut)",
+      "napas uremic fetor - bau amoniak",
+      "muscle cramps dan restless leg syndrome"
+    ],
+    "manifestasi_kardiovaskular": [
+      "hipertensi refrakter",
+      "kardiomiopati uremik",
+      "perikarditis uremik dengan friction rub",
+      "aterosklerosis prematur",
+      "gangguan irama akibat hiperkalemia"
+    ],
+    "gangguan_mineral_tulang": [
+      "osteodistrofi renal",
+      "osteomalacia dan osteoporosis",
+      "kalsifikasi vaskular",
+      "arthritis urik sekunder",
+      "pruritus akibat hiperfosfatemia"
+    ],
+    "stadium_CKD": [
+      "stadium 1 - GFR >90 dengan kerusakan ginjal",
+      "stadium 2 - GFR 60-89 dengan kerusakan ginjal",
+      "stadium 3 - GFR 30-59 penurunan sedang",
+      "stadium 4 - GFR 15-29 penurunan berat",
+      "stadium 5 - GFR <15 gagal ginjal terminal"
+    ]
+  }
+]

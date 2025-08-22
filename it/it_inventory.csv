@@ -1,0 +1,21 @@
+asset_id,asset_type,brand,model,serial_number,purchase_date,warranty_expiry,status,location,assigned_to,department,specifications,cost
+IT001,Laptop,Dell,Latitude 5520,DL5520001,2023-01-15,2026-01-15,Active,Office Jakarta,John Doe,Engineering,Intel i7-1165G7 16GB RAM 512GB SSD,15000000
+IT002,Desktop,HP,EliteDesk 800 G8,HP800001,2023-02-20,2026-02-20,Active,Office Bandung,Jane Smith,Marketing,Intel i5-11500 8GB RAM 256GB SSD,8500000
+IT003,Monitor,LG,27UL500-W,LG27001,2023-01-15,2026-01-15,Active,Office Jakarta,John Doe,Engineering,27inch 4K IPS,4200000
+IT004,Printer,Canon,imageCLASS LBP6030,CN6030001,2022-12-10,2025-12-10,Active,Office Jakarta,Shared Device,Admin,Monochrome Laser A4,1800000
+IT005,Router,Cisco,ISR 4321,CS4321001,2023-03-01,2028-03-01,Active,Server Room Jakarta,Network Team,IT,4-port Gigabit Ethernet,25000000
+IT006,Server,Dell,PowerEdge R740,DL740001,2023-04-15,2028-04-15,Active,Data Center,Database Team,IT,2x Xeon Gold 6248R 128GB RAM 2TB SSD,85000000
+IT007,Laptop,MacBook,Pro 16-inch,MBP16001,2023-05-20,2026-05-20,Active,Office Surabaya,Alice Johnson,Design,M1 Pro 32GB RAM 1TB SSD,42000000
+IT008,Smartphone,Samsung,Galaxy S23,SM23001,2023-06-10,2025-06-10,Active,Mobile,Bob Wilson,Sales,256GB 8GB RAM 5G,12000000
+IT009,Tablet,iPad,Air 5th Gen,IPA5001,2023-06-15,2025-06-15,Active,Mobile,Carol Brown,Marketing,256GB Wi-Fi + Cellular,8500000
+IT010,Switch,Netgear,GS724T,NG724001,2023-07-01,2028-07-01,Active,Office Bandung,Network Team,IT,24-port Gigabit Managed,3500000
+IT011,UPS,APC,Smart-UPS 1500VA,APC1500001,2023-08-05,2026-08-05,Active,Server Room,IT Team,IT,1500VA 980W,4200000
+IT012,Webcam,Logitech,C920 HD Pro,LGC920001,2023-08-20,2025-08-20,Active,Office Jakarta,David Lee,HR,1080p HD Video,1200000
+IT013,Keyboard,Logitech,MX Keys,LGMX001,2023-09-10,2025-09-10,Active,Office Jakarta,John Doe,Engineering,Wireless Backlit,1800000
+IT014,Mouse,Logitech,MX Master 3,LGMX3001,2023-09-10,2025-09-10,Active,Office Jakarta,John Doe,Engineering,Wireless Ergonomic,1500000
+IT015,Headset,Sony,WH-1000XM4,SNWH001,2023-10-15,2025-10-15,Active,Mobile,Emma Davis,Marketing,Noise Cancelling Bluetooth,4500000
+IT016,External HDD,Western Digital,My Passport 2TB,WD2TB001,2023-11-01,2025-11-01,Active,Office Bandung,Storage Team,IT,2TB USB 3.0 Portable,1200000
+IT017,Graphics Card,NVIDIA,RTX 4070,NV4070001,2023-11-20,2026-11-20,Active,Workstation,Design Team,Design,12GB GDDR6X,8500000
+IT018,Projector,Epson,EB-FH06,EP6001,2023-12-05,2026-12-05,Active,Meeting Room A,Shared Device,Admin,3500 Lumens Full HD,5500000
+IT019,Scanner,Canon,CanoScan LiDE 400,CN400001,2024-01-10,2027-01-10,Active,Office Jakarta,Admin Team,Admin,4800x4800 dpi USB,1500000
+IT020,Access Point,Ubiquiti,UniFi 6 Lite,UB6001,2024-01-25,2029-01-25,Active,Office Ceiling,Network Team,IT,Wi-Fi 6 Dual Band,2200000
